@@ -1,4 +1,4 @@
-print("welcome to my computer quiz ")
+print("welcome to my state-capital quiz ")
 playing = input("Do you want to play?")
 if playing != "yes":
     quit()
